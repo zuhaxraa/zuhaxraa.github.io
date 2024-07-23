@@ -1,27 +1,21 @@
-body {
-    display: flex;
-    justify-content: center;
+body{
     align-items: center;
-    height: 100vh;
-    background-color: rgba(222, 200, 224, 0.575);
-    }
-
-    h1 {
-        font-family: Helvetica;
-        font-size: 50px;
-        color: rgb(124, 2, 2);
-    }
-img{
-    width: 300px;
-    padding-left: 10px;
-    padding-top: 10px;
-
+    justify-content: center
 }
 
-.custom-p {
-    font-weight: bold;
-} 
-.icon{
-    width: 40px;
-    padding-left: 20px;
+h1{
+ color: brown;
+ font-family: 'Times New Roman';
+ background-color: rgb(239, 222, 205);
+}
+
+h2{ color: brown;
+    font-family: 'Times New Roman';
+    font-size: 170px;
+}
+
+p{
+    color: brown;
+    font-size: 60px;
+    font-family: fantasy;
 }
